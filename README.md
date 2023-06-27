@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ChaitanyaKatti/ChaitanyaKatti/assets/96473570/38e6bdec-4269-4f40-ba7e-fc8e51ab0f32">
+  <img src="https://github.com/ChaitanyaKatti/ChaitanyaKatti/assets/96473570/d6546772-43b3-4d4d-a088-29ba7c317dd2">
 
 </div>
 
@@ -7,6 +7,7 @@
 <h3 align="center">A passionate data scientist/engineer from India</h3>
 
 - 🌱 I’m currently learning Data Science and Analytics
+- 🤣 Having fun with AI art
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
