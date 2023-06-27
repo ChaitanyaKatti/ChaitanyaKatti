@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/ChaitanyaKatti/ChaitanyaKatti/assets/96473570/38e6bdec-4269-4f40-ba7e-fc8e51ab0f32">
+
+</div>
+
 <h1 align="center">Hi there, I'm Chaitanya Katti👋</h1>
 <h3 align="center">A passionate data scientist/engineer from India</h3>
 
