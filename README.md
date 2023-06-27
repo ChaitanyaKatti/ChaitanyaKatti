@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Katti</h1>
+<h1 align="center">Hi there, I'm Chaitanya Katti👋</h1>
 <h3 align="center">A passionate data scientist/engineer from India</h3>
 
 - 🌱 I’m currently learning Data Science and Analytics
