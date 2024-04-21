@@ -7,7 +7,7 @@
 <h3 align="center">A passionate data scientist/engineer from India</h3>
 
 - I’m currently learning Data Science and Machine Learning
-- 🛸 Also interested in computer graphics.
+- ☀️ Also interested in computer graphics.
 - 🤖 Curious about drones and robotics.
 - 🎮 Love gaming and 🎹 playing the piano.
 
